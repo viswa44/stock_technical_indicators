@@ -16,3 +16,4 @@ Decision making.py --> do this task
 
 plotting index with indicators - check out ipynb files
 
+link: https://docs.google.com/presentation/d/1TdRdyqPSL29H-pwiYVAguY3iiRwux2qqb57lUbEJRvs/edit?usp=sharing
